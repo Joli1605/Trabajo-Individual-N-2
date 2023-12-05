@@ -71,3 +71,7 @@ Se observa que provincias como Tierra del Fuego, Santa Cruz, San Juan, Chubut, S
 ## Conclusiones
 En resumen, este proyecto de Data Analyst en el sector de las telecomunicaciones ha permitido obtener información profunda y análisis detallados de diversos aspectos relacionados con los servicios de Internet. A través del análisis exploratorio de datos y la evaluación de conjuntos de datos clave, se han identificado áreas de mejora y oportunidades para impulsar el crecimiento y la calidad de los servicios de Internet en Argentina.
 
+¿Tienes alguna pregunta o sugerencia? 
+No dudes en contactarme!
+Correo eléctronico: jorgelinapramos@hotmail.com
+Linkedin: https://www.linkedin.com/in/jorgelina-p-l-ramos-83564422b/
