@@ -34,7 +34,7 @@ Después de realizar el Análisis Exploratorio de Datos, se seleccionaron los si
 Durante el proyecto, se identificaron los siguientes KPIs para mejorar los servicios de Internet:
 
 ## KPI1 Aumentar el 3% el acceso  al servicio de intenet fijo cada 100 hogares para el próximo trimestre.
- Aca se analizo el último trimestre del 2022 en comparacion al crecimiento esperado.
+ Se analizo el último trimestre del 2022 en comparacion al crecimiento esperado.
  Se ha registrado un resultado negativo de -2.91 en comparación con el objetivo establecido. Esta diferencia indica que el crecimiento en el acceso al servicio de internet fijo ha sido menor de lo esperado, lo cual nos señala la necesidad de analizar cuidadosamente las razones detrás de este resultado y tomar medidas para corregir el rumbo.
 
 Es crucial realizar un análisis exhaustivo para identificar las posibles causas de este bajo rendimiento y definir acciones correctivas efectivas. Algunas medidas que podemos considerar para mejorar el acceso al servicio de internet fijo incluyen:
