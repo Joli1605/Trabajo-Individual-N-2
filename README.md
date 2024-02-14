@@ -75,3 +75,4 @@ En resumen, este proyecto de Data Analyst en el sector de las telecomunicaciones
 No dudes en contactarme!
 Correo eléctronico: jorgelinapramos@hotmail.com
 Linkedin: https://www.linkedin.com/in/jorgelina-p-l-ramos-83564422b/
+Tel: +549 2396510483
