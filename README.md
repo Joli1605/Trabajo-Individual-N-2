@@ -69,7 +69,7 @@ Mejora de la calidad del servicio: Trabajar en mejorar la calidad general del se
 Se observa que provincias como Tierra del Fuego, Santa Cruz, San Juan, Chubut, Santiago del Estero y La Pampa se encuentran por debajo de los 50 Mbps en los últimos tres trimestres de 2022. Estas provincias deberían recibir especial atención para mejorar la media de bajada. 
 
 ## Conclusiones
-En resumen, este proyecto de Data Analyst ha permitido obtener información profunda y análisis detallados de diversos aspectos relacionados con los servicios de Internet. A través del análisis exploratorio de datos y la evaluación de conjuntos de datos clave, se han identificado áreas de mejora y oportunidades para impulsar el crecimiento y la calidad de los servicios de Internet en Argentina.
+Este proyecto de Data Analyst ha permitido obtener información profunda y análisis detallados de diversos aspectos relacionados con los servicios de Internet. A través del análisis exploratorio de datos y la evaluación de conjuntos de datos clave, se han identificado áreas de mejora y oportunidades para impulsar el crecimiento y la calidad de los servicios de Internet en Argentina.
 
 ¿Tienes alguna pregunta o sugerencia? 
 No dudes en contactarme!
