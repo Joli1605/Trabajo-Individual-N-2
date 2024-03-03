@@ -60,7 +60,7 @@ Si bien los resultados son positivos hasta el momento, es importante mantener un
 
 ## KPI3 mejorar la Mbps (Media de bajada) en un 2%. 
 
-Hemos obtenido un resultado negativo de -4.82%, lo que indica que el crecimiento en la media de bajada ha sido menor de lo esperado durante el período evaluado.
+Se obtuvo un resultado negativo de -4.82%, lo que indica que el crecimiento en la media de bajada ha sido menor de lo esperado durante el período evaluado.
 Es importante analizar detalladamente las razones detrás de este bajo rendimiento y tomar medidas correctivas para lograr un mejor desempeño en el futuro. Algunas acciones que podemos considerar son:
 Evaluación de la infraestructura y capacidad de red: Analizar la infraestructura y capacidad de red actual para identificar posibles limitaciones que puedan estar afectando la media de bajada. Esto puede incluir la mejora de la infraestructura existente o la inversión en tecnologías más avanzadas.
 Optimización de la gestión del ancho de banda: Revisar políticas y prácticas de gestión del ancho de banda para asegurarnos de que se estén asignando los recursos adecuados a la media de bajada. Se puede considerar técnicas de priorización de tráfico y optimización de la distribución de ancho de banda.
