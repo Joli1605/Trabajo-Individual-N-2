@@ -1,6 +1,6 @@
 ## Proyecto Data Analyst - Telecomunicaciones
 
-El objetivo de este proyecto fue analizar datos relacionados con los servicios de Internet en el contexto de las telecomunicaciones. Se exploró y analizó diferentes conjuntos de datos para obtener información e insights relevantes que puedan mejorar la calidad y el rendimiento de los servicios de Internet en Argentina.
+El objetivo de este proyecto fue analizar datos relacionados con los servicios de Internet en el contexto de las telecomunicaciones en Argentina. Se exploró y analizó diferentes conjuntos de datos para obtener información e insights relevantes que puedan mejorar la calidad y el rendimiento de los servicios de Internet en Argentina.
 
  ### Descripción del problema
 El acceso a Internet se ha vuelto fundamental en nuestra sociedad actual, transformando la manera en que nos comunicamos, trabajamos, aprendemos y nos entretenemos. Sin embargo, para garantizar un acceso confiable y de calidad, es necesario comprender y analizar diversos aspectos relacionados con los servicios de Internet, como la cobertura, la velocidad, los tipos de tecnología utilizados y los reclamos de los usuarios.
