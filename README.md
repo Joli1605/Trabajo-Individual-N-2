@@ -11,7 +11,9 @@ En este proyecto, asumí el rol de Data Analyst. Mi responsabilidad fué llevar 
 
 ### Carpetas
 Data: Contiene los conjuntos de datos principales.
+
 Data_Dashboard: Contiene los datasets seleccionados para el analisis.
+
 EDA: Contiene el analisis exploratorio de datos.
 
 
