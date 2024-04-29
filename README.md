@@ -7,10 +7,10 @@ El acceso a Internet se ha vuelto fundamental en nuestra sociedad actual, transf
 
 ### Rol a desarrollar
 
-En este proyecto, asumí el rol de Data Analyst. Mi responsabilidad fué llevar a cabo el análisis exploratorio de datos (EDA) utilizando Python y la biblioteca Pandas.  A partir de los datos recopilados, genere visualizaciones y análisis que permitan identificar patrones, tendencias y áreas de mejora en los servicios de Internet.
+En este proyecto, asumí el rol de Data Analyst. Mi responsabilidad fué llevar a cabo el análisis exploratorio de datos (EDA) utilizando Python y la biblioteca Pandas. A partir de los datos recopilados, genere visualizaciones y análisis que permitan identificar patrones, tendencias y áreas de mejora en los servicios de Internet.
 
 ### Carpetas
-Data: Contiene los conjuntos de datos principales.
+Data:Contiene los conjuntos de datos principales.
 
 Data_Dashboard: Contiene los datasets seleccionados para el analisis.
 
