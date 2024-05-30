@@ -19,7 +19,7 @@ EDA: Contiene el analisis exploratorio de datos.
 
 ### Conjuntos de datos a considerar
 
-Después de realizar el Análisis Exploratorio de Datos(EDA), se seleccionaron los siguientes conjuntos de datos como los más relevantes para el proyecto:
+Después de realizar el Análisis Exploratorio de Datos(EDA), se seleccionaron los siguientes conjuntos de datos para el proyecto:
 
 1. `df1`: Accesos al servicio de Internet fijo por cada 100 hogares por provincia y por trimestre.
 2. `df4`: Accesos al servicio de Internet fijo por banda ancha y banda angosta (Dial up) por provincia.
@@ -33,7 +33,7 @@ Después de realizar el Análisis Exploratorio de Datos(EDA), se seleccionaron l
 
 
 ## KPIs 
-Se identificaron los siguientes KPIs para mejorar los servicios de Internet:
+Se giidentificaron los siguientes KPIs para mejorar los servicios de Internet:
 
 ## KPI1 Aumentar el 3% el acceso  al servicio de intenet fijo cada 100 hogares para el próximo trimestre.
  Se analizo el último trimestre del 2022 en comparacion al crecimiento esperado.
